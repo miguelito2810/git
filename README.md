@@ -1,6 +1,13 @@
+Este es un espacio donde comparto ideas, proyectos y experimentos relacionados con la programación.
+
+¿Qué encontraras en esta sección?
+
+-Ejemplos de código y buenas prácticas. -Proyectos para aprender y divertirse.
+-Recursos y tips útiles para desarrolladores.
+
 ¡Explorá, aprendé y sumate!
 
-Cualquier sugerencia o mejora es más que bienvenida.  
+Cualquier sugerencia o mejora es más que bienvenida. 
 
 <h1 align="center">Hi 👋, I'm Miguel Salgado</h1>
 <h3 align="center">Programacion en Proceso</h3>
@@ -22,3 +29,4 @@ Cualquier sugerencia o mejora es más que bienvenida.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yes" /></a></p><br><br>
+
